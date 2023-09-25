@@ -1,3 +1,3 @@
 public class Main {
-    system.out.print("Hello World");
+    system.out.print("Hello World KIJ");
 }
